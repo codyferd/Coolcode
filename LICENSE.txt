@@ -1,2 +1,3 @@
 Copyright 2024 codyferd on github.com
-You can use, copy, edit, and share this software. It’s also provided as is, without warranty, and the maker can’t be subject to liabilities or damages.
+Copyright <Year> <Maker> <Email(Optional)> 
+You can use, copy, edit, and share this software. You also have a patent license. It’s also provided as is, without warranty, and the maker can’t be subject to liabilities or damages.
