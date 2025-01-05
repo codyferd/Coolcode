@@ -1,3 +1,4 @@
-OSSO-LI 1.0
+FOSSO-LI 1.1
 Copyright 2024 codyferd on github.com
-Anyone can use, copy, edit, and share this software and have a patent license. The software is also provided as is, without warranty, and the maker can’t be subject to liabilities or damages.
+Anyone can use, copy, edit, and share this work and have a patent license. The work is also provided as is, without warranty, and the maker can’t be subject to liabilities or damages.
+
