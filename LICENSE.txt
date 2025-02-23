@@ -6,9 +6,8 @@ Anyone is free to copy, modify, publish, use, compile, sell, or
 distribute this work, either in source code form, as a compiled
 binary, or by any other means. This work can be used for any purpose,
 commercial or non-commercial, and by any means. In jurisdictions that
-recognize copyright laws, the author or authors of this software 
-dedicate any and all copyright interest in the software to the public
-domain.
+recognize copyright laws, the author or authors of this work dedicate 
+any and all copyright interest in the software to the public domain.
 
 THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
